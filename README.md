@@ -11,6 +11,14 @@ It consists of a React (TypeScript) frontend and a FastAPI (Python) backend.
 5. 🔹 Redux Toolkit + Saga for state management
 6. 🔹 PostgreSQL (or SQLite for local dev)
 
+## Architecture Diagram (HLD)
+```
+[Frontend - React]  <---->  [Backend - FastAPI]  <---->  [Database (Optional)]
+       |
+       v
+   [API Calls]  -->  [Workflow Engine] (To be integrated)
+```
+
 ## Project Structure
 ```
 AI-Workflow-Builder/
