@@ -1,0 +1,20 @@
+.title {
+  font-size: 1.5rem; /* ~24px */
+  font-weight: 700;
+  color: #222;
+}
+
+.paragraph {
+  font-size: 1rem; /* ~16px */
+  color: #666; /* secondary text */
+  line-height: 1.5;
+}
+.heading-lg {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.body-md {
+  font-size: 0.95rem;
+  color: #444;
+}

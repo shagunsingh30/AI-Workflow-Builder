@@ -1,0 +1,15 @@
+.stack-list {
+  padding: 24px;
+}
+
+.stack-list-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 20px;
+  margin-top: 16px;
+}
+
+/* Optional: center the heading */
+.stack-list > .heading-lg {
+  margin-bottom: 16px;
+}

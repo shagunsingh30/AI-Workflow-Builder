@@ -1,0 +1,24 @@
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.input-field {
+  padding: 10px 12px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 14px;
+  outline: none;
+}
+
+.input-field:focus {
+  border-color: #4caf50;
+  box-shadow: 0 0 4px rgba(76, 175, 80, 0.3);
+}
+
+.modal-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 12px;
+  margin-top: 24px;
+}
