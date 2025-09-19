@@ -4,12 +4,12 @@ AI Workflow Builder is a full-stack application that lets you create, manage, an
 It consists of a React (TypeScript) frontend and a FastAPI (Python) backend.
 
 🚀 Features
-🔹 Create and manage AI Stacks
-🔹 Drag-and-drop workflow builder with React Flow
-🔹 Save and load workflows from the backend
-🔹 RESTful API with FastAPI
-🔹 Redux Toolkit + Saga for state management
-🔹 PostgreSQL (or SQLite for local dev)
+1.🔹 Create and manage AI Stacks
+2.🔹 Drag-and-drop workflow builder with React Flow
+3.🔹 Save and load workflows from the backend
+4.🔹 RESTful API with FastAPI
+5.🔹 Redux Toolkit + Saga for state management
+6.🔹 PostgreSQL (or SQLite for local dev)
 
 ## Project Structure
 ```
