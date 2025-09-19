@@ -45,7 +45,7 @@ pip install -r requirements.txt
 ```
 4. Set up environment variables in .env:
 ```
-DATABASE_URL=sqlite:///./app.db   # Or PostgreSQL connection string
+DATABASE_URL=sqlite:///./app.db   # Or PostgreSQL connection string (I'm using Supabase Connection String)
 ```
 5. API will be available at **http://127.0.0.1:8000**
 
